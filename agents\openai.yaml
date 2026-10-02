@@ -1,0 +1,11 @@
+interface:
+  display_name: "Совет основателей"
+  short_description: "100 предпринимателей разбирают вашу бизнес-задачу"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/hero.png"
+  brand_color: "#6C5CE7"
+  default_prompt: "Используй $founders-council, чтобы собрать совет предпринимателей и разобрать мою бизнес-задачу с разных позиций."
+
+policy:
+  allow_implicit_invocation: true
+
